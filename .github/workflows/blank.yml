@@ -13,8 +13,8 @@ on:
     inputs:
       logLevel:
         description: 'Insert your value here'     
-        required: true
-        default: 'warning'
+#        required: true
+#        default: 'warning'
 #      tags:
 #        description: 'Test scenario tags'  
   # Allows you to run this workflow manually from the Actions tab
