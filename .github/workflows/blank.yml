@@ -15,8 +15,8 @@ on:
         description: 'Insert your value here'     
         required: true
         default: 'warning'
-      tags:
-        description: 'Test scenario tags'  
+#      tags:
+#        description: 'Test scenario tags'  
   # Allows you to run this workflow manually from the Actions tab
 #  workflow_dispatch:
 
